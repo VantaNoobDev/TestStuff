@@ -1,0 +1,10 @@
+[package]
+name = "weathergod3218/goodsignal"
+description = "A fork of stravant goodsignal, A fast Signal class implementation that has full feature parity with Roblox' RBXScriptSignal"
+liscene = "MIT"
+version = "0.2.3"
+registry = "https://github.com/UpliftGames/wally-index"
+realm = "shared"
+exclude = ["aftman.toml","selene.toml"]
+
+[dependencies]

@@ -1,0 +1,11 @@
+[package]
+name = "user/teststuff"
+version = "0.1.0"
+registry = "https://github.com/UpliftGames/wally-index"
+realm = "shared"
+
+[dependencies]
+
+[server-dependencies]
+Trove = "cody-nelson/trove@0.0.1"
+Signal = "weathergod3218/goodsignal@0.2.3"
